@@ -1,0 +1,4 @@
+It’s great to have you aboard, sunil
+Redirecting you to the Desktop App
+
+If you aren’t redirected automatically, use authorization token to sign in.

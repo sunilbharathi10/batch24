@@ -15,6 +15,7 @@ insert into students values(1,"ashikali","CA",22,500.8);
 
 
 
+
 insert into students values(2,"arun","chargermissing case",24,600.8),(3,"abinaya","cse",21,567),(4,"madhavan","python",23,456);
 
 
